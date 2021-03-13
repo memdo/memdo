@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @memdo
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python and Linux
 - 🌱 I’m currently learning Data Structures and Algorithms
 
 <!---
