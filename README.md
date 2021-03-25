@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @memdo
-- 👀 I’m interested in Python and Linux
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 👋 Hi, I’m Berkay a.k.a @memdo
+- 👀 I’m interested in Python, JS and Linux
 
 <!---
 memdo/memdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
