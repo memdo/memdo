@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Berkay a.k.a @memdo
+- 👋 Hi, I’m Mustafa Berkay a.k.a @memdo
 - 👀 I’m interested in Python, JS and Linux
 
 <!---
